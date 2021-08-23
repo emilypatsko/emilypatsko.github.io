@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile_picture {
+    border-radius: 50%;
+    width: 15rem;
+}
+
+.main_body {
+    margin: 0 25%; 
+}
+
+.day_mode {
+    background-color: #F3F3F3;
+    color: #333333;
+}
+
+.night_mode {
+    background-color: #333333;
+    color: #F3F3F3;
+}
