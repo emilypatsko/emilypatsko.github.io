@@ -11,7 +11,9 @@ body {
 
 .profile_picture {
     border-radius: 50%;
-    width: 15rem;
+    max-width: 280px;
+    min-width: 160px;
+    width: 30vw;
 }
 
 .main_body {
