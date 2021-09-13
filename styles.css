@@ -15,7 +15,8 @@ body {
 }
 
 .main_body {
-    margin: 0 25%; 
+    margin: 0 auto; 
+    max-width: 700px;
 }
 
 .day_mode {
